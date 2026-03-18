@@ -72,3 +72,6 @@ I focus on:
 ## 🤝 Contact
 
 📫 Feel free to connect or reach out
+
+ruben.leonardo.zevallos@gmail.com
+
