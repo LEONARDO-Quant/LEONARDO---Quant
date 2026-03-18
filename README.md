@@ -38,5 +38,5 @@ I bridge the gap between **Economic theory** and **Quantitative modeling**. My f
 
 ### 🤝 Connect with me
 📫 **Email:** [ruben.leonardo.zevallos@gmail.com](mailto:ruben.leonardo.zevallos@gmail.com)
-🔗 **LinkedIn:** [Ton-Lien-LinkedIn]
+🔗 **LinkedIn:** [www.linkedin.com/in/rubénleonardo] 
 
