@@ -27,6 +27,11 @@ I bridge the gap between **Economic theory** and **Quantitative modeling**. My f
 ![Databricks](https://img.shields.io/badge/Databricks-F28033?style=for-the-badge&logo=databricks&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F61?style=for-the-badge&logo=apache&logoColor=white)
 ![Deep Learning](https://img.shields.io/badge/Deep_Learning-6F42C1?style=for-the-badge&logo=tensorflow&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Dataiku](https://img.shields.io/badge/Platform-Dataiku-F9D104?style=for-the-badge&logo=dataiku&logoColor=black)
+![AWS](https://img.shields.io/badge/Cloud-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![MLOps](https://img.shields.io/badge/Methodology-MLOps-000000?style=for-the-badge&logo=git&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Database-Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
 
 
 ---
