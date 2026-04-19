@@ -17,21 +17,30 @@ I bridge the gap between **Economic theory** and **Quantitative modeling**. My f
 ---
 
 ### 🛠️ Tech Stack
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+![Langages](https://img.shields.io/badge/Langages-python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
+
+![Frameworks](https://img.shields.io/badge/Frameworks-LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-000000?style=for-the-badge&logo=langchain&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Databricks](https://img.shields.io/badge/Databricks-F28033?style=for-the-badge&logo=databricks&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F61?style=for-the-badge&logo=apache&logoColor=white)
+![Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
+
+![AI](https://img.shields.io/badge/AI-Generative_AI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F61?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Deep Learning](https://img.shields.io/badge/Deep_Learning-6F42C1?style=for-the-badge&logo=tensorflow&logoColor=white)
+![MLOps](https://img.shields.io/badge/MLOps-000000?style=for-the-badge&logo=git&logoColor=white)
+
+![Cloud](https://img.shields.io/badge/Cloud-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Dataiku](https://img.shields.io/badge/Dataiku-F9D104?style=for-the-badge&logo=dataiku&logoColor=black)
+![Databricks](https://img.shields.io/badge/Databricks-F28033?style=for-the-badge&logo=databricks&logoColor=white)
+![Visualisation](https://img.shields.io/badge/Visualisation-Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Dataiku](https://img.shields.io/badge/Platform-Dataiku-F9D104?style=for-the-badge&logo=dataiku&logoColor=black)
-![AWS](https://img.shields.io/badge/Cloud-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![MLOps](https://img.shields.io/badge/Methodology-MLOps-000000?style=for-the-badge&logo=git&logoColor=white)
-![Neo4j](https://img.shields.io/badge/Database-Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
 
 
 ---
